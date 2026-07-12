@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/SandibJena">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+learning+%26+data+tools;Next.js+%7C+React+%7C+Python+%7C+Kotlin;Won+2nd+Prize+%40+BPUT+Hackathon+2025;Working+as+a+Data+Analyst+Intern+%40+Bluestock+Fintech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+AI-powered+learning+%26+data+tools;Next.js+%7C+React+%7C+Python+%7C+Kotlin;Won+2nd+Prize+%40+BPUT+Hackathon+2025;Data+Analyst+Intern+%40+Bluestock+Fintech" alt="Typing SVG" />
 </a>
 
 <!-- Open to work -->
