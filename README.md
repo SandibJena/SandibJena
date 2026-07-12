@@ -23,7 +23,6 @@
 
 ## 👋 Who I Am
 
-```typescript
 const sandibJena = {
   title: "B.Tech CSE Student | Data Analyst Intern",
   location: "Odisha, India",
@@ -50,7 +49,7 @@ const sandibJena = {
   status: "🏆 2nd Prize — BPUT Hackathon 2025",
   openTo: ["Internships", "Collaborations", "Freelance Projects"],
 } as const;
-```
+
 
 <br/>
 
