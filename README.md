@@ -37,20 +37,36 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <strong>Quick Snapshot</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Education-GCE%2C%20Kalahandi-7dd3fc?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education"/><br/>
-      <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Analytics%20%2B%20Web-0ea5e9?style=flat-square&logo=openai&logoColor=white" alt="Focus"/><br/>
-      <img src="https://img.shields.io/badge/Status-2nd%20Prize%20BPUT%202025-111827?style=flat-square&logo=trophy&logoColor=white" alt="Status"/><br/>
-      <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations%20%7C%20Freelance-7dd3fc?style=flat-square&logo=handshake&logoColor=white" alt="Open To"/>
+      <table>
+        <tr>
+          <td width="110"><img src="https://img.shields.io/badge/Education-7dd3fc?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education"/></td>
+          <td>GCE, Kalahandi</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Focus-0ea5e9?style=flat-square&logo=openai&logoColor=white" alt="Focus"/></td>
+          <td>AI + Analytics + Web</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Status-111827?style=flat-square&logo=trophy&logoColor=white" alt="Status"/></td>
+          <td>2nd Prize BPUT 2025</td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Open%20To-7dd3fc?style=flat-square&logo=handshake&logoColor=white" alt="Open To"/></td>
+          <td>Internships | Collaborations | Freelance</td>
+        </tr>
+      </table>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <strong>Stack I Work With</strong><br/><br/>
-      Kotlin, Java, Python, JavaScript, TypeScript, C++<br/><br/>
-      React, Next.js, Flutter, Tailwind CSS<br/><br/>
-      Node.js, Flask, FastAPI, Vercel<br/><br/>
-      Supabase, PostgreSQL, SQLite, Google Cloud / Vertex AI<br/><br/>
-      Git, GitHub, VS Code, Jupyter Notebook
+      <table>
+        <tr><td>Kotlin, Java, Python, JavaScript, TypeScript, C++</td></tr>
+        <tr><td>React, Next.js, Flutter, Tailwind CSS</td></tr>
+        <tr><td>Node.js, Flask, FastAPI, Vercel</td></tr>
+        <tr><td>Supabase, PostgreSQL, SQLite, Google Cloud / Vertex AI</td></tr>
+        <tr><td>Git, GitHub, VS Code, Jupyter Notebook</td></tr>
+      </table>
     </td>
   </tr>
 </table>
