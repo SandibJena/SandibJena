@@ -103,119 +103,67 @@ Google Cloud Skills Boost, Gemini API / Vertex AI, IBM Cloud, UIUC Cloud Computi
 
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="34%" valign="top">
-            <a href="https://github.com/SandibJena/bput-hackathon">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandibJena&repo=bput-hackathon&theme=vision-friendly-dark&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="GYANARATNA repo pin" width="100%"/>
-            </a>
-            <br/><br/>
-            <a href="https://gyanaratna.vercel.app">
-              <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/SandibJena/bput-hackathon">
-              <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-          </td>
-          <td width="66%" valign="top">
-            <h3>🎯 GYANARATNA — AI-Powered Learning Platform</h3>
-            <p>🏆 <strong>2nd Prize Winner — BPUT Hackathon 2025</strong><br/>Role-based educational platform for teachers &amp; students with real-time progress tracking, quiz management, and gamified learning.</p>
-            <table>
-              <tr><td><strong>Frontend</strong></td><td>Next.js 15 (App Router), Tailwind CSS</td></tr>
-              <tr><td><strong>Auth</strong></td><td>Clerk</td></tr>
-              <tr><td><strong>Backend/DB</strong></td><td>Supabase (PostgreSQL), Row-Level Security</td></tr>
-              <tr><td><strong>AI</strong></td><td>Gemini API</td></tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="34%" valign="top">
-            <a href="https://github.com/SandibJena/Capstone-ProjectI_Bluestocks">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandibJena&repo=Capstone-ProjectI_Bluestocks&theme=vision-friendly-dark&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Bluestock capstone repo pin" width="100%"/>
-            </a>
-            <br/><br/>
-            <a href="https://github.com/SandibJena/Capstone-ProjectI_Bluestocks">
-              <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-          </td>
-          <td width="66%" valign="top">
-            <h3>📊 Mutual Fund Analytics — Bluestock Data Analyst Capstone</h3>
-            <p>End-to-end data engineering &amp; financial analytics pipeline built during the Bluestock Fintech internship, covering ETL, SQL star-schema modeling, EDA, and performance analytics benchmarked against NIFTY50/100.</p>
-            <table>
-              <tr><td><strong>Data/ETL</strong></td><td>Python, Pandas, NumPy, SciPy</td></tr>
-              <tr><td><strong>Database</strong></td><td>SQLite, SQLAlchemy (Star Schema)</td></tr>
-              <tr><td><strong>Visualization</strong></td><td>Matplotlib, Seaborn, Plotly</td></tr>
-              <tr><td><strong>Environment</strong></td><td>Jupyter Notebook</td></tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="34%" valign="top">
-            <a href="https://github.com/SandibJena/AI-RESUME-PORTFOLIO-BUILDER">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandibJena&repo=AI-RESUME-PORTFOLIO-BUILDER&theme=vision-friendly-dark&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="ResumeForge AI repo pin" width="100%"/>
-            </a>
-            <br/><br/>
-            <a href="https://ai-resume-portfolio-builder-gamma.vercel.app">
-              <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-            </a>
-            <a href="https://github.com/SandibJena/AI-RESUME-PORTFOLIO-BUILDER">
-              <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-          </td>
-          <td width="66%" valign="top">
-            <h3>⚡ ResumeForge AI — Resume, Portfolio &amp; Cover Letter Builder</h3>
-            <p>ATS-optimized resume builder with live preview, keyword-match scoring, and client-side PDF export — no backend, no sign-up.</p>
-            <table>
-              <tr><td><strong>Framework</strong></td><td>Next.js 14 (App Router)</td></tr>
-              <tr><td><strong>Styling</strong></td><td>Tailwind CSS</td></tr>
-              <tr><td><strong>PDF Export</strong></td><td>jsPDF (client-side)</td></tr>
-              <tr><td><strong>Deployment</strong></td><td>Vercel</td></tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <table width="100%">
-        <tr>
-          <td width="34%" valign="top">
-            <a href="https://github.com/SandibJena/NeuroSense-AI-Mental-Wellness-Monitoring-Application">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=SandibJena&repo=NeuroSense-AI-Mental-Wellness-Monitoring-Application&theme=vision-friendly-dark&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="NeuroSense repo pin" width="100%"/>
-            </a>
-            <br/><br/>
-            <a href="https://github.com/SandibJena/NeuroSense-AI-Mental-Wellness-Monitoring-Application">
-              <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-            </a>
-          </td>
-          <td width="66%" valign="top">
-            <h3>🧠 NeuroSense — AI Mental Wellness Monitoring App</h3>
-            <p>Cross-platform wellness-monitoring application combining a mobile client with an AI-driven backend for tracking and insights.</p>
-            <table>
-              <tr><td><strong>Mobile</strong></td><td>React Native</td></tr>
-              <tr><td><strong>Backend</strong></td><td>FastAPI</td></tr>
-              <tr><td><strong>Database</strong></td><td>PostgreSQL</td></tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
+    <td width="30%" valign="top"><strong>GYANARATNA</strong></td>
+    <td width="70%" valign="top">AI-powered learning platform for role-based education, quiz management, and gamified progress tracking.</td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://gyanaratna.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/SandibJena/bput-hackathon">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><strong>Mutual Fund Analytics</strong></td>
+    <td width="70%" valign="top">Data engineering and financial analytics capstone built during the Bluestock internship.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/SandibJena/Capstone-ProjectI_Bluestocks">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><strong>ResumeForge AI</strong></td>
+    <td width="70%" valign="top">Client-side resume and cover letter builder with live preview and PDF export.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://ai-resume-portfolio-builder-gamma.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/SandibJena/AI-RESUME-PORTFOLIO-BUILDER">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><strong>NeuroSense</strong></td>
+    <td width="70%" valign="top">Cross-platform mental wellness monitoring app with an AI-driven backend.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/SandibJena/NeuroSense-AI-Mental-Wellness-Monitoring-Application">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+</div>
 
 <br/>
 
