@@ -31,41 +31,54 @@
 
 </div>
 
-I’m Sandib Jena, a B.Tech CSE student and Data Analyst Intern focused on building useful products across AI, web, and analytics. I like turning ideas into practical systems with clear UX, reliable data flow, and modern stacks.
+<blockquote>
+  <p>I’m Sandib Jena, a B.Tech CSE student and Data Analyst Intern building AI-powered products, analytics systems, and full-stack experiences that feel practical, polished, and easy to use.</p>
+</blockquote>
 
-### Profile Snapshot
-
-| Field | Details |
-|---|---|
-| Education | Government College of Engineering, Kalahandi (2024–2028) |
-| Focus | AI-powered learning tools, analytics platforms, and full-stack product builds |
-| Core Stack | Kotlin, Java, Python, JavaScript, TypeScript, C++ |
-| Frontend | React, Next.js, Flutter, Tailwind CSS |
-| Backend / Infra | Node.js, Flask, FastAPI, Vercel |
-| Cloud / Data | Supabase, PostgreSQL, SQLite, Google Cloud / Vertex AI |
-| Dev Tools | Git, GitHub, VS Code, Jupyter Notebook |
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Quick Snapshot</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Education-GCE%2C%20Kalahandi-7dd3fc?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education"/><br/>
+      <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Analytics%20%2B%20Web-0ea5e9?style=flat-square&logo=openai&logoColor=white" alt="Focus"/><br/>
+      <img src="https://img.shields.io/badge/Status-2nd%20Prize%20BPUT%202025-111827?style=flat-square&logo=trophy&logoColor=white" alt="Status"/><br/>
+      <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations%20%7C%20Freelance-7dd3fc?style=flat-square&logo=handshake&logoColor=white" alt="Open To"/>
+    </td>
+    <td width="50%">
+      <strong>Stack I Work With</strong><br/><br/>
+      Kotlin, Java, Python, JavaScript, TypeScript, C++<br/><br/>
+      React, Next.js, Flutter, Tailwind CSS<br/><br/>
+      Node.js, Flask, FastAPI, Vercel<br/><br/>
+      Supabase, PostgreSQL, SQLite, Google Cloud / Vertex AI<br/><br/>
+      Git, GitHub, VS Code, Jupyter Notebook
+    </td>
+  </tr>
+</table>
 
 ### What I’ve Built
 
-- GYANARATNA, an AI-powered learning platform for role-based education and gamified progress tracking.
-- Mutual Fund Analytics, a data engineering and financial analytics capstone built during the Bluestock internship.
-- ResumeForge AI, a client-side resume and cover letter builder with live preview and PDF export.
-- NeuroSense, a cross-platform mental wellness monitoring app with an AI-driven backend.
+<table>
+  <tr>
+    <td>GYANARATNA</td>
+    <td>AI-powered learning platform for role-based education, quiz management, and gamified progress tracking.</td>
+  </tr>
+  <tr>
+    <td>Mutual Fund Analytics</td>
+    <td>Data engineering and financial analytics capstone built during the Bluestock internship.</td>
+  </tr>
+  <tr>
+    <td>ResumeForge AI</td>
+    <td>Client-side resume and cover letter builder with live preview and PDF export.</td>
+  </tr>
+  <tr>
+    <td>NeuroSense</td>
+    <td>Cross-platform mental wellness monitoring app with an AI-driven backend.</td>
+  </tr>
+</table>
 
 ### Certifications
 
-- Google Cloud Skills Boost, Gemini API / Vertex AI
-- IBM Cloud
-- UIUC Cloud Computing, Coursera
-- Google ADK
-
-### Open To
-
-Internships, collaborations, and freelance projects.
-
-### Current Status
-
-🏆 2nd Prize Winner — BPUT Hackathon 2025
+Google Cloud Skills Boost, Gemini API / Vertex AI, IBM Cloud, UIUC Cloud Computing, Coursera, and Google ADK.
 
 
 <br/>
@@ -89,7 +102,10 @@ Internships, collaborations, and freelance projects.
   <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 <a href="https://github.com/SandibJena/bput-hackathon">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+</a>
+<a href="https://github.com/SandibJena/bput-hackathon">
+  <img src="https://img.shields.io/badge/Repo%20Pin-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repo Pin"/>
 </a>
 
 </div>
@@ -113,7 +129,10 @@ Internships, collaborations, and freelance projects.
 <div align="center">
 
 <a href="https://github.com/SandibJena/Capstone-ProjectI_Bluestocks">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+</a>
+<a href="https://github.com/SandibJena/Capstone-ProjectI_Bluestocks">
+  <img src="https://img.shields.io/badge/Repo%20Pin-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repo Pin"/>
 </a>
 
 </div>
@@ -140,7 +159,10 @@ Internships, collaborations, and freelance projects.
   <img src="https://img.shields.io/badge/Live%20Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
 <a href="https://github.com/SandibJena/AI-RESUME-PORTFOLIO-BUILDER">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+</a>
+<a href="https://github.com/SandibJena/AI-RESUME-PORTFOLIO-BUILDER">
+  <img src="https://img.shields.io/badge/Repo%20Pin-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repo Pin"/>
 </a>
 
 </div>
@@ -163,7 +185,10 @@ Internships, collaborations, and freelance projects.
 <div align="center">
 
 <a href="https://github.com/SandibJena/NeuroSense-AI-Mental-Wellness-Monitoring-Application">
-  <img src="https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  <img src="https://img.shields.io/badge/GitHub%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+</a>
+<a href="https://github.com/SandibJena/NeuroSense-AI-Mental-Wellness-Monitoring-Application">
+  <img src="https://img.shields.io/badge/Repo%20Pin-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Repo Pin"/>
 </a>
 
 </div>
