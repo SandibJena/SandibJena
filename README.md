@@ -42,7 +42,7 @@
       <table>
         <tr>
           <td width="110"><img src="https://img.shields.io/badge/Education-7dd3fc?style=flat-square&logo=googleclassroom&logoColor=white" alt="Education"/></td>
-          <td>GCE, Kalahandi</td>
+          <td>GCEK, Kalahandi</td>
         </tr>
         <tr>
           <td><img src="https://img.shields.io/badge/Focus-0ea5e9?style=flat-square&logo=openai&logoColor=white" alt="Focus"/></td>
