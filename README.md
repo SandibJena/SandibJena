@@ -11,18 +11,18 @@
 <br/><br/>
 
 <!-- ⚛️ TECH STACK -->
-<img src="./stack.svg?v=2" alt="Tech stack" width="100%"/>
+<img src="./stack.svg?v=3" alt="Tech stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 DEVELOPER ID + DASHBOARD -->
-<img src="./id-dashboard.svg?v=2" alt="Developer ID and dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=3" alt="Developer ID and dashboard" width="100%"/>
 
 <br/><br/>
 
 <!-- 🚀 FEATURED BUILDS -->
 <a href="https://github.com/SandibJena?tab=repositories">
-  <img src="./featured-builds.svg?v=2" alt="Featured builds — Sandib Jena" width="100%"/>
+  <img src="./featured-builds.svg?v=3" alt="Featured builds — Sandib Jena" width="100%"/>
 </a>
 
 <br/><br/>
